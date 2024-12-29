@@ -4,19 +4,19 @@
 
 
 ## 2024년 12월 29일 패치노트
--# 추가된 프로그램 리스트 ->
+**추가된 프로그램 리스트 ->**
 
-> ChromeSetup.exe
-> BANDIZIP-SETUP-STD-X64.EXE
-> BANDIVIEW-SETUP-X64.EXE
-> KakaoTalk_Setup.exe
-> DiscordSetup.exe
-> Install VALORANT.exe [live.live.ap.exe]
-> SteamSetup.exe
-> Install_NexonPlug.exe
-> dotnet-sdk-9.0.101-win-x64.exe
-> VSCodeUserSetup-x64-1.96.2.exe
-> jdk-23_windows-x64_bin.msi
-> SpotifySetup.exe
-> hancomoffice.zip [2024 교육기관용 버전]
-> KMS_Activation.cmd [2번 -> 1번]
+1. ChromeSetup.exe
+2. BANDIZIP-SETUP-STD-X64.EXE
+3. BANDIVIEW-SETUP-X64.EXE
+4. KakaoTalk_Setup.exe
+5. DiscordSetup.exe
+6. Install VALORANT.exe [live.live.ap.exe]
+7. SteamSetup.exe
+8. Install_NexonPlug.exe
+9. dotnet-sdk-9.0.101-win-x64.exe
+10. VSCodeUserSetup-x64-1.96.2.exe
+11. jdk-23_windows-x64_bin.msi
+12. SpotifySetup.exe
+13. hancomoffice.zip [2024 교육기관용 버전]
+14. KMS_Activation.cmd [2번 -> 1번]
