@@ -1,31 +1,22 @@
-# 모고&호신 tools / 최신버전: #241229 / 1.2.0.0 [Pre-Release Channel]
+# 모고&호신 tools / 최신버전: 012325 / 1.0.0 [Release Channel]
 
 > 모고&호신 툴에 찾아와주신것을 환영합니다.
 
-**모고&호신 툴인 mosin_tools 는 포멧을 자주하는 윈도우 및 우분투, 리눅스 사용자를 위한 자동 필수 프로그램 다운로드 프로그램입니다.**
-(현재 리눅스 및 우분투는 프로그램 준비중입니다.)
+**모고&호신 툴인 mosin_tools 는 포멧을 자주하는 윈도우 사용자들을 위한 패키지 자동 다운로드 툴입니다.**
+(저희는 유저들의 편리를 위하여 노력하고 있습니다.)
 
 ## 프로그램 다운로드 방법
-1. [https://git.../mosin_tools/releases/](https://github.com/juho0130/mosin_tools/releases) 에 접속해서 자신의 os에 맞는 최신버전을 다운로드합니다.
-2. 프로그램을 **관리자 권한으로** 실행합니다.
-3. 필수 프로그램 버튼을 클릭해 ProgressBar가 다 될때까지 기다립니다.
-4. 바탕화면에 있는 bin 폴더안에 있는 프로그램을 설치하면 됩니다.
+1. [https://git.../mosin_tools/releases/](https://github.com/milkchan128/mosin_tools/releases) 에 접속해서 자신의 os에 맞는 최신버전을 다운로드 후 설치합니다.
+2. 바탕화면의 MosinTools를 더블클릭해 실행후 원하는 프로그램을 선택합니다.
+3. 다운로드 버튼을 클릭해 "모든 다운로드가 완료되었습니다" 라는 창이 뜰때까지 기다립니다.
+4. 이후 바탕화면 downloads 폴더에서 프로그램들을 설치하면 됩니다.
 
+## 2025년 01월 23일 패치노트
+**MosinTools_windows_amd64.zip/7z/iso 버전 업데이트 기록**
 
-## 2024년 12월 29일 패치노트
-**tools_windows-x64.exe 버전에 추가된 프로그램 리스트**
-
-1. ChromeSetup.exe
-2. BANDIZIP-SETUP-STD-X64.EXE
-3. BANDIVIEW-SETUP-X64.EXE
-4. KakaoTalk_Setup.exe
-5. DiscordSetup.exe
-6. Install VALORANT.exe [live.live.ap.exe]
-7. SteamSetup.exe
-8. Install_NexonPlug.exe
-9. dotnet-sdk-9.0.101-win-x64.exe
-10. VSCodeUserSetup-x64-1.96.2.exe
-11. jdk-23_windows-x64_bin.msi
-12. SpotifySetup.exe
-13. hancomoffice.zip [2024 교육기관용 버전]
-14. KMS_Activation.cmd [2번 -> 1번]
+ + 윈도우 앱 자체 프레임워크를 Metro로 변경
+ + 설치형 프로그램으로 변경됨
+ + 다운로드할 프로그램을 선택할수있도록 변경
+ + 진행상황을 URL로 표시되게 변경함
+ + 프로그램 최적화 작업 및 웹서버 최적화
+ - 윈도우 8.1 UI디자인 삭제
